@@ -1,2 +1,0 @@
-execute as @s run summon item ~ ~ ~ {Tags:["diamondshard"],Item:{id:"minecraft:emerald",Count:1b,tag:{display:{Name:'{"text":"Diamond Shard","color":"aqua"}'},CustomModelData:dshrd}},Invulnerable:1b}
-kill @s
